@@ -2,7 +2,7 @@
   "name": "food_delivery",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jishnu9061.github.io/food_delivery/",
+  "homepage": "https://jishnu9061.github.io/food/",
   "type": "module",
   "scripts": {
     "dev": "vite",
